@@ -19,7 +19,7 @@ class BasicMad : Application() {
         super.onCreate()
 
         // A class to define your global level dependencies and objects
-        //setBasicData()
+        setBasicData()
     }
 
     private fun setBasicData() {
